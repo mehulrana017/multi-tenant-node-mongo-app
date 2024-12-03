@@ -34,7 +34,7 @@ This project is a multi-tenancy application built using Node.js, TypeScript, and
 1. Clone the repository:
 
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/mehulrana017/multi-tenant-node-mongo-app.git
    ```
 
 2. Navigate to the project directory:
@@ -53,6 +53,9 @@ This project is a multi-tenancy application built using Node.js, TypeScript, and
 
    ```env
    MONGO_URI=<your-mongo-atlas-uri>
+   MONGO_CLUSTER_URL=<your-mongo-cluster-uri>
+   MONGO_USER=<your-mongo-user>
+   MONGO_PASSWORD=<your-mongo-password>
    JWT_SECRET=<your-jwt-secret>
    PORT=5000
    ```
