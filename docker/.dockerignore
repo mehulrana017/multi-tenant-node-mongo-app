@@ -1,0 +1,19 @@
+# Ignore node_modules folder (rebuild in the container)
+node_modules/
+
+# Ignore .git and other unnecessary files
+.git/
+.gitignore
+
+# Ignore Dockerfile, docker-compose.yml, and other dev files
+Dockerfile
+docker-compose.yml
+
+# Ignore local environment files
+.env
+
+# Ignore build output
+dist/
+
+# Ignore logs and other temporary files
+*.log
