@@ -106,7 +106,7 @@ This project is a multi-tenancy application built using Node.js, TypeScript, and
 
 ---
 
-## Directory Structure
+<!-- ## Directory Structure
 
 ```plaintext
 multi-tenancy-app/
@@ -129,4 +129,4 @@ multi-tenancy-app/
 ├── package.json              # Project metadata and scripts
 ├── tsconfig.json             # TypeScript configuration
 └── README.md                 # Documentation
-```
+``` -->
