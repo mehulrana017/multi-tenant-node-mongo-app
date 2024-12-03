@@ -78,6 +78,8 @@ This project is a multi-tenancy application built using Node.js, TypeScript, and
 
 1. Ensure Docker is installed and running on your machine.
 
+   https://docs.docker.com/engine/install/
+
 2. Build the Docker image:
 
    ```bash
